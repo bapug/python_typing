@@ -2,4 +2,6 @@ jupyter
 mypy
 pytypes
 typeshed
+pyre-check
+
 
